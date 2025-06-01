@@ -2,6 +2,9 @@
 
 This project is a web application that provides endpoints for various functionalities related to aircraft health and  flight paths. It is built using FastAPI and serves as the backend for a dashboard application.
 
+![Screenshot from 2024-05-30 19-45-15](https://github.com/user-attachments/assets/33310702-8a8b-4804-8fdf-4892016e2888)
+
+
 # Backend:
 ## Installation
 
